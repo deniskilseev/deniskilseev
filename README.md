@@ -1,16 +1,25 @@
-## Hi there 👋
+# Welcome!
 
-<!--
-**deniskilseev/deniskilseev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🌎 I’m currently an ESRI Software Development Intern working on the Knowledge Graph team.
+- 🔭 Interested in writing highly-optimized code.
+- 👨‍💻 Currently onto learning Rust!
 
-Here are some ideas to get you started:
+## [Notion Blog Link]( https://amazing-course-2de.notion.site/Welcome-to-my-blog-3be732f4648149548f1924eb50e8198b?pvs=74 )
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Reflection and sharing is essential part of any SWE journey – hence, my blog!
+
+# Technical
+
+- Dev Stack 🤓: Java, Python, C/C++, JavaScript, SQL (PostgreSQL, MySQL), openCypher (Neo4J, Apache AGE), MongoDB
+- Frameworks/Tools ⚒️:  Express.js, ReactJS, Jest, JUnit, Linux, Jenkins
+
+
+## Stats
+---
+
+<p align="center">
+  <img src = "https://github-readme-streak-stats.herokuapp.com/?user=deniskilseev&theme=vue-dark&hide_border=true") height ="150px" />
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=deniskilseev&theme=vue-dark&show_icons=true&hide_border=true&layout=compact") height ="150px" />
+</p>
+
+---
