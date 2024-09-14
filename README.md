@@ -1,9 +1,8 @@
 # Welcome!
 
-- 🌎 I’m currently an ESRI Software Development Intern working on the Knowledge Graph team.
 - 🔭 Interested in writing highly-optimized code, distributed systems, programming languages, and whatnot! 
 - 👨‍💻 Currently taking CS352 – Compilers && CS354 – Operating Systems. In the meantime, develop for Cardiff University Investment Club.
-
+- 🌎 ex-ESRI Software Development Intern.
 ## [Notion Blog Link]( https://amazing-course-2de.notion.site/Welcome-to-my-blog-3be732f4648149548f1924eb50e8198b?pvs=74 )
 
 Reflection and sharing is essential part of any SWE journey – hence, my blog!
